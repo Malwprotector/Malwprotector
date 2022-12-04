@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
- <p align='center'> <a href="https://twitter.com/LSTSecIntel">
+ <p align='center'> <a href="https://twitter.com/st4lwolf">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a></p>
 </div>
