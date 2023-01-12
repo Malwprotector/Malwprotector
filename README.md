@@ -13,10 +13,3 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </p></h1>
 
-# About me 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malwprotector&layout=compact&langs_count=10&theme=cobalt)
-##
-![Stats](https://github-readme-stats.vercel.app/api?username=Malwprotector&count_private=true&theme=cobalt&hide=stars)
-
-
-
