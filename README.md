@@ -21,5 +21,5 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Malwprotector&theme=dark&hide_border=true&mode=weekly"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malwprotector&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malwprotector&hide=javascript&theme=dark"/>
 </p>
