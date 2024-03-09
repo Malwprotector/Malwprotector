@@ -5,9 +5,6 @@
  <p align='center'> <a href="https://piaille.fr/@st4lwolf">
     <img src="https://img.shields.io/badge/mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
    </a></p>
-  <p align='center'> <a href="https://twitter.com/st4lwolf">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a></p>
 </div>
 <p align='center'><img src="https://komarev.com/ghpvc/?username=Malwprotector&style=flat-square&color=blue" alt=""/></p>
 <h1><p align='center'>
