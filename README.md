@@ -14,5 +14,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Malwprotector&theme=dark&show_icons=true"/>
 </p>-->
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Malwprotector&theme=dark&hide_border=true&mode=weekly"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Malwprotector&theme=cobalt&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
 </p>
