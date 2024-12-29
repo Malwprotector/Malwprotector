@@ -18,6 +18,6 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Malwprotector&theme=dark&hide_border=true&mode=weekly"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malwprotector&exclude_repo=mc-seed-converter&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malwprotector&exclude_repo=mc-seed-converter&theme=dark&langs_count=10"/>
 
 </p>
