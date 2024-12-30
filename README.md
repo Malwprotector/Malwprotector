@@ -11,9 +11,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malwprotector&exclude_repo=mc-seed-converter&theme=dark&langs_count=10&layout=compact"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenorg&theme=dark&langs_count=10&layout=compact"/>
-</p>
 <!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Malwprotector&theme=dark&show_icons=true"/>
 </p>-->
