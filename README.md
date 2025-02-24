@@ -16,10 +16,11 @@
 </p>-->
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Malwprotector&theme=cobalt&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
-</p>
 
-<center>
+<div style="text-align:center;">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Malwprotector&title=-Issues,-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-</center>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Malwprotector&title=-Issues,-PullRequest,-Reviews&theme=juicyfresh)](https://github.com/Malwprotector)
+</div>
+ 
+
 
