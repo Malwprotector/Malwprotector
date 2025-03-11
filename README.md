@@ -38,7 +38,7 @@
     <!-- GitHub Trophies -->
     <td colspan="2" align="center">
       <a href="https://github.com/Malwprotector">
-        <img src="https://github-profile-trophy.vercel.app/?username=Malwprotector&theme=juicyfresh&title=-Issues" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Malwprotector&theme=juicyfresh&title=-Issues,-Reviews" alt="GitHub Trophies" />
       </a>
     </td>
   </tr>
