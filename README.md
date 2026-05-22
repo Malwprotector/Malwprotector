@@ -30,7 +30,7 @@
     <!-- GitHub Streak -->
     <td colspan="2" align="center">
       <a href="https://github.com/Malwprotector">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Malwprotector&theme=cobalt&mode=weekly&hide_current_streak=false" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Malwprotector&theme=cobalt&mode=weekly&hide_current_streak=true" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
